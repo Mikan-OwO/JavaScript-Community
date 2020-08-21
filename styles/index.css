@@ -4,7 +4,8 @@ img {
 }
 
 input {
-  height: 30px;
+  top: 2px;
+  height: 35px;
 }
 
 .content {

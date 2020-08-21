@@ -3,6 +3,10 @@ img {
   width: 200px;
 }
 
+body {
+  background-image: URL("");
+}
+
 .copy-container h1 {
   font-size: 50px;
 }

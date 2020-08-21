@@ -35,7 +35,6 @@ body {
 }
 
 .main {
-  background-image: URL('https://cdn.discordapp.com/attachments/731300011392106586/746261090152742912/image0.png');
   padding: 50px 100px;
   flex-grow: 1;
 }

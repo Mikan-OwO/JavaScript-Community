@@ -3,12 +3,8 @@ img {
   width: 200px;
 }
 
-.copy-container h1 {
-  font-size: 50px;
-}
-
-.copy-container h2 {
-  font-size: 20px;
+input {
+  height: 30px;
 }
 
 .content {
